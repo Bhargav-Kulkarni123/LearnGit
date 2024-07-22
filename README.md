@@ -1,3 +1,3 @@
 # LearnGit
 
-README.md just edited manually.
+README.MD file has been modified remotely
