@@ -1,0 +1,1 @@
+Created new file to check where does the tag point after new commit
